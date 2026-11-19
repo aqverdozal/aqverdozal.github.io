@@ -1,3 +1,4 @@
+---
 title: "Click or No Click: Using Data Mining & Ensembling to Reach a 0.83146 Kaggle Score"
 date: 2026-10-15
 categories:

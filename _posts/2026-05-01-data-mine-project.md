@@ -1,3 +1,4 @@
+---
 title: "Purdue Convocations Analytics: Designing a Rewards Strategy for 25% Higher Retention"
 date: 2026-04-30
 categories:

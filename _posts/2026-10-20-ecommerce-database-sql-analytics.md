@@ -1,3 +1,4 @@
+---
 title: "E-Commerce Database Analytics: Evaluating Profitability & Sell-Through in BigQuery"
 date: 2026-10-20
 categories:

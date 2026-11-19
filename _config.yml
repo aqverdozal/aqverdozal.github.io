@@ -57,11 +57,11 @@ plugins:
 
 author:
   name   : "Aileen Verdoza-Luevano"
-  avatar : "/assets/images/headshot.jpg"
+  avatar : "/assets/images/headshot.heic"
   bio    : "MS BAIM at Purdue University | Purdue Alum: BS Math & Statistics"
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkin"
+      icon: "fas fa-fw fa-linkedin"
       url: "https://linkedin.com/in/averdoza"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
